@@ -38,7 +38,7 @@ grid3 = [['0', '0', '7', '4', '0', '9', '5', '0', '0'],
 
 
 def get_images_array():
-    img_array = [cv2.imread("sudoku.png", cv2.IMREAD_GRAYSCALE), cv2.imread("test1.jpeg", cv2.IMREAD_GRAYSCALE), cv2.imread("test2.jpg", cv2.IMREAD_GRAYSCALE)]
+    img_array = [cv2.imread("images/sudoku.png", cv2.IMREAD_GRAYSCALE), cv2.imread("images/test1.jpeg", cv2.IMREAD_GRAYSCALE), cv2.imread("images/test2.jpg", cv2.IMREAD_GRAYSCALE)]
     contours = []
 
     # preprocess images

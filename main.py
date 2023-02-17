@@ -8,7 +8,7 @@ import time
 sudoku_grid = []
 sudoku_flatten_array = []
 binary_array = []
-original_img = cv2.imread("sudoku.png", cv2.IMREAD_GRAYSCALE)
+original_img = cv2.imread("images/sudoku.png", cv2.IMREAD_GRAYSCALE)
 img_cropped = original_img
 img_cropped_copy = original_img
 
