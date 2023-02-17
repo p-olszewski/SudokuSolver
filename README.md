@@ -15,5 +15,5 @@ Based on the picture of the sample Sudoku, the prepared program analyzes the who
     - time
 
 ### Demo
-![alt text](https://github.com/p-olszewski/SudokuSolver/blob/main/sudoku.png?raw=true)
-![alt text](https://github.com/p-olszewski/SudokuSolver/blob/main/result.png?raw=true)
+![alt text](https://github.com/p-olszewski/SudokuSolver/blob/main/images/sudoku.png?raw=true)
+![alt text](https://github.com/p-olszewski/SudokuSolver/blob/main/images/result.png?raw=true)
