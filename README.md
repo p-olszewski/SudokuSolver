@@ -3,7 +3,8 @@
 Based on the picture of the sample Sudoku, the prepared program analyzes the whole board, then a special algorithm prepares the solution of the whole board and displays the solved board image.
 
 ### Project environmental requirements
-- Installed Python (version 3.9), installed Tesseract on your computer (link: https://github.com/tesseract-ocr/tesseract)
+- Installed Python (version 3.9)
+- Installed Tesseract on your computer (link: https://github.com/tesseract-ocr/tesseract)
 - Installed and imported libraries: 
     - pytesseract
     - opencv
