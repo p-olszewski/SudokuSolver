@@ -1,5 +1,5 @@
 # Sudoku Solver
-### Project environmental requirements
+### Project description
 Based on the picture of the sample Sudoku, the prepared program analyzes the whole board, then a special algorithm prepares the solution of the whole board and displays the solved board image.
 
 ### Project environmental requirements
